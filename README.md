@@ -1,5 +1,7 @@
 # OSCP / OSCP+ Cheatsheet
 
+[**The Compendium for this repo**](https://mystichackers.com/story/Njk)
+
 A working penetration-testing reference structured around the **2026 OSCP+ exam**: 3 standalone machines (20 pts each = 60) + one Active Directory set of 3 machines (40 pts) — **70 to pass**. No buffer-overflow machine, no bonus points.
 
 **How to use it.** Each file below is a self-contained phase of the attack — open the one you need and `Ctrl+F` the keyword (a port like `445`, a technique like `kerberoast`, a tool like `chisel`). During the exam, **clone this repo locally first** (`git clone`) and/or keep an offline copy so you're never depending on the network staying up for 24h. Remember: AI assistants are **not** permitted during the exam or report phase — this is offline notes.
